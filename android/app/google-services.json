@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1012898676746",
+    "project_id": "heyon-ae3b8",
+    "storage_bucket": "heyon-ae3b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012898676746:android:057aa150bd6469f1959ff3",
+        "android_client_info": {
+          "package_name": "com.on"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012898676746-nul07bb5pvqen05o89861aoau5ae1a11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQh4o8mq1WJiQr0gpPFO-BX9Vj98QvcCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012898676746-nul07bb5pvqen05o89861aoau5ae1a11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
