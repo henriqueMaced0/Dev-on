@@ -12,12 +12,4 @@ Depois de logado, você consegue ter acesso ao chat e conversa em tempo real.
 
 <h2 >📸 Demostração</h2>
 
-
-
-<video src="https://user-images.githubusercontent.com/110493728/220483730-25c3e1de-c430-4dfe-9681-e787311d1aa2.mp4"
-alt="demostração" 
-controls
-controlslist="nofullscreen nodownload"
-autoplay
- height="280"></video>
-<hr>
+<img src="https://user-images.githubusercontent.com/110493728/220483730-25c3e1de-c430-4dfe-9681-e787311d1aa2.mp4" alt="demostração" height="200" />
